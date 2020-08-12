@@ -37,13 +37,16 @@ systemctl reload apache2.service
 http://www.splitstree.org/
 clicar em Download
 versão pra Linux (Unix)
-chmod +x ./splitstree4_unix_4_16_1.sh
-./splitstree4_unix_4_16_1.sh
+```
+$ chmod +x ./splitstree4_unix_4_16_1.sh
+$ ./splitstree4_unix_4_16_1.sh
+```
 
 ##instalando JAVA
 ```
 $ sudo apt install default-jre
-``` 
+```
+ 
 
 ##instalando gerenciador de versões
 ```
